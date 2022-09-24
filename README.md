@@ -26,7 +26,7 @@
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamraghuwanshi136&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="satyamraghuwanshi136" /></div>
 
 <hr>
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamraghuwanshi136&show_icons=true&theme=tokyonight&locale=en" alt="satyamraghuwanshi136" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamraghuwanshi136&show_icons=true&theme=tokyonight&locale=en" alt="satyamraghuwanshi136" /></div>
 
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamraghuwanshi136&theme=tokyonight" alt="satyamraghuwanshi136" /></p>
