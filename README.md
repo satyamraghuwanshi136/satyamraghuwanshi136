@@ -25,6 +25,7 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamraghuwanshi136&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="satyamraghuwanshi136" /></p>
 
+<br>
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamraghuwanshi136&show_icons=true&theme=tokyonight&locale=en" alt="satyamraghuwanshi136" /></p>
 
