@@ -1,4 +1,4 @@
-<div align="center"><img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" data-deferred="1" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Featuring Everything About Full Stack Development" id="imi" data-w="750" data-h="400" data-iml="17642" style="height: 400px; width: 750px; margin: 0px;" data-atf="true"></div>
+<!-- <div align="center"><img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" data-deferred="1" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Featuring Everything About Full Stack Development" id="imi" data-w="750" data-h="400" data-iml="17642" style="height: 400px; width: 750px; margin: 0px;" data-atf="true"></div> -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Satyam Raghuwanshi</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
