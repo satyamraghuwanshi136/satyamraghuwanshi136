@@ -1,5 +1,5 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" data-deferred="1" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Featuring Everything About Full Stack Development" id="imi" data-w="750" data-h="400" data-iml="17642" style="height: 400px; width: 750px; margin: 0px;" data-atf="true">
-<h1 align="center">Hi 👋, I'm Satyam Raghuwanshi</h1>
+<div align="center"><img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" data-deferred="1" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Featuring Everything About Full Stack Development" id="imi" data-w="750" data-h="400" data-iml="17642" style="height: 400px; width: 750px; margin: 0px;" data-atf="true"></div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Satyam Raghuwanshi</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamraghuwanshi136&label=Profile%20views&color=0e75b6&style=flat" alt="satyamraghuwanshi136" /> </p>
@@ -25,12 +25,12 @@
 
 <hr>
 <h3 align="left">Most Used Language's:</h3>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamraghuwanshi136&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="satyamraghuwanshi136" /></div>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamraghuwanshi136&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="satyamraghuwanshi136" /></p>
 
 <hr>
 <h3 align="left">Github Stats:</h3>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=satyamraghuwanshi136&show_icons=true&theme=tokyonight&locale=en" alt="satyamraghuwanshi136" /></div>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=satyamraghuwanshi136&show_icons=true&theme=tokyonight&locale=en" alt="satyamraghuwanshi136" /></p>
 
 <hr>
 <h3 align="left">Github Streaks:</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamraghuwanshi136&theme=tokyonight" alt="satyamraghuwanshi136" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamraghuwanshi136&theme=tokyonight" alt="satyamraghuwanshi136" /></p>
