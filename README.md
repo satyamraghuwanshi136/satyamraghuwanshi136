@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Java Developer**
 
-- 🌱 I’m currently learning **Spring, Spring Boot**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking forward to contributing to **open source projects**
 
